@@ -2,7 +2,6 @@ package school.cesar.estoque;
 
 public class EstoqueModel {
     private String sku;
-    private double price;
     private int quantity;
 
     public EstoqueModel(String sku, int quantity) {
